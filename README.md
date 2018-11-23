@@ -5,6 +5,7 @@
 # CASCON 2018, Oct 2018 proceedings, page 323-330
 
 https://www-01.ibm.com/ibm/cas/cascon/doc/CASCON2018_Proceeding.pdf
+
 https://dl.acm.org/citation.cfm?id=3291327
 
 Introduction: Clinical applications of electroencephalography (EEG)
